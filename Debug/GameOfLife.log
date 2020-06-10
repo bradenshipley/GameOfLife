@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\GL\GameOfLife\main.cpp(154,52): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+C:\GL\GameOfLife\main.cpp(180,52): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+  GameOfLife.vcxproj -> C:\GL\GameOfLife\Debug\GameOfLife.exe
